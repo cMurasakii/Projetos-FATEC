@@ -1,8 +1,5 @@
-Conta principal 
-Nome: admin /
-Senha: admin
 
-(Os relatórios são gerados em guias no Acess)
+(Os relatórios são gerados em guias)
 
 Do grupo:
 Eduardo Matos,
