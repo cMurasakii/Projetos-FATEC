@@ -1,4 +1,4 @@
-Projeto de N2 do ADSVA2
+Onyx Analytics - Aplicativo desktop para gerência de negócios
 
 Login : admin
 Senha : admin
